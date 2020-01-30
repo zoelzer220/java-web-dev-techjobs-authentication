@@ -1,4 +1,4 @@
-package org.launchcode.javawebdevtechjobspersistent.models;
+package org.launchcode.javawebdevtechjobsauthentication.models;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
